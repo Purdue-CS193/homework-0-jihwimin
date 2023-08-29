@@ -1,4 +1,3 @@
-theme: Modernist
 # Jihwi's First CS193 Homework
 - Chill
 - Informative
